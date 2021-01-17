@@ -20,8 +20,21 @@ body{
     margin-top: 10px;
     text-align: center;
 }
-#qouteimg1{
-    width: 2%;
-    height: 2%;
-    margin-left: 30px; 
+#quoteimg1{
+    width: 10%;
+    height: 10%;
+    margin-right: 30px; 
+}
+
+#quote1{
+    text-align: right;
+}
+
+#quote2{
+    text-align: right;
+}
+#quoteimg2{
+    width: 10%;
+    height: 10%;
+    margin-right: 30px; 
 }

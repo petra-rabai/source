@@ -1,0 +1,27 @@
+body{
+    display: block;
+    background-color: rgb(223, 210, 194);
+    border: 5px solid rgb(255, 204, 0);
+    margin: 10px;
+}
+
+#headerimg1{
+    width: 15%;
+    height: 15%;
+    margin-right: 30px;
+}
+
+#headerimg2{
+    width: 15%;
+    height: 15%;
+    margin-left: 30px;
+}
+#header{
+    margin-top: 10px;
+    text-align: center;
+}
+#quoteimg1{
+    width: 2%;
+    height: 2%;
+    margin-left: 30px; 
+}
